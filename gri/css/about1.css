@@ -1,0 +1,55 @@
+#d1{
+	  height:300px;
+	  background-image:url('../bg_div111.jpg');
+	  background-size:100% 300px;
+    }
+#bd2{
+	  font-size:30px;
+	  font-family:ultra-condensed;
+	  text-decoration:overline;
+	  color:red;
+	  margin-left:50px;
+  }
+#bd1{
+	  font-size:80px;
+	  font-family:ultra-condensed ;
+	  text-decoration: overline ;
+	  color:red;
+	  text-shadow:1px 3px orange;
+  }
+#ad1{ 
+	  text-decoration:none;
+	  color:black;
+	  font-size:18px;
+  }
+#ad1:hover{
+	  color:navy;
+	  font-size:20px;
+  }
+button{
+	  border:none;
+	  width:280px;
+	  background:white;
+	  box-shadow:5px  5px #ffc6c6;;
+  }
+button:hover{
+	/* border:0.5px dashed red; */
+	box-shadow:0px 0px 5px 5px white;
+	/* background-color: */
+}
+#d22{
+	width:900px;
+	align:center;
+	background-color:white;
+	border-radius:50px;
+	box-shadow:5px 5px 5px grey;
+}
+hr{
+	border:1px solid red;
+} 
+#t1 th{
+	background-color:#ad1100;
+	border-left:1px solid white;
+	text-align:center;
+	color:white;
+}
